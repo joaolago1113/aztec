@@ -240,7 +240,7 @@ Make sure the email used in UptimeRobot matches the one configured in your iPhon
 
 ---
 
-## 🚨 11. Automate Notifications on iOS
+## 🚨 11. Wake up alarm: Automate Notifications on iOS (Optional)
 
 1. Get the iOS Shortcut:
    [https://www.icloud.com/shortcuts/6a45d796f86846aab583490cdb4549a5](https://www.icloud.com/shortcuts/6a45d796f86846aab583490cdb4549a5)

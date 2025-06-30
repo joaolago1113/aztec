@@ -1,4 +1,4 @@
-## Wake up alarm on Aztec Validator downtime: For IOS
+## Uptime Monitoring of Validator plus (Optional) Wake up Alarm: For IOS
 
 I wanted to make an alarm that would wake me up during the night if my node went down or started missing attestations. 
 UptimeRobot has a paid option to make a call, but a call isn't enough especially if sleep mode or "do not disturb" is on, so through this method the phone will trigger an alarm at max volume and bypass sleep or "do not disturb" mode.
